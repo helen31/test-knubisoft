@@ -1,0 +1,13 @@
+:host {
+  display: inline-block;
+  height: inherit;
+  width: 50%;
+  vertical-align:top;
+
+  border: 1px solid black;
+
+  ul {
+    list-style-type: none;
+  }
+}
+
